@@ -1,4 +1,4 @@
-# CODING CONVENTIONS
+# NAMING THINGS IN CODE
 ### 1. Avoid variables with a single letter
 
 **DON'T**
